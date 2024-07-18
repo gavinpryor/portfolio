@@ -35,7 +35,11 @@ GPA: 3.96 | Expected Graduation: Spring 2026
 
 
 ## Projects
-
+**NBA Rulebook AI agent using RAG**
++ AI agent where you can ask questions about NBA rules
++ Skills - RAG, LangChain, OpenAI API
++ [GitHub Link] (https://github.com/gavinpryor/nba-rulebook-ai-agent)
+  
 
 ## Extracirricular Involvement
 **Phi Beta Lambda Professional Business Organization** (September 2022 - Present)
