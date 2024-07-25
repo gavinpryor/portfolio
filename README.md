@@ -1,13 +1,15 @@
-# AI and Data Science | Third Year University Student
+# Data Science and AI | Third Year University Student
 
 #### Technical Skills: Python, Java, R, MySQL, Excel, Tableau
 
 ## Education
 University of Pittsburgh, Bachelor of Science in Business Administration
 
-Major: Data Analytics | Minors: Computer Science, Statistics
+Major: Data Analytics || Minors: Computer Science, Statistics
 
-GPA: 3.96 | Expected Graduation: Spring 2026
+GPA: 3.96 || Expected Graduation: Spring 2026
+
+
 
 ## Work Experience
 **AI Product Engineer Intern at Keboola** (June 2024 - Present)
@@ -34,12 +36,14 @@ GPA: 3.96 | Expected Graduation: Spring 2026
 + Attended sprint planning meetings and researched project management strategies/best practices to improve team efficiency
 
 
+
 ## Projects
 **NBA Rulebook AI agent using RAG**
-+ AI agent where you can ask questions about NBA rules
++ AI agent that allows the user to ask questions about NBA rules
 + Skills - RAG, LangChain, OpenAI API
 + [GitHub Link] (https://github.com/gavinpryor/nba-rulebook-ai-agent)
   
+
 
 ## Extracirricular Involvement
 **Phi Beta Lambda Professional Business Organization** (September 2022 - Present)
