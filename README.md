@@ -41,7 +41,7 @@ GPA: 3.96 || Expected Graduation: Spring 2026
 **NBA Rulebook AI agent using RAG**
 + AI agent that allows the user to ask questions about NBA rules
 + Skills - RAG, LangChain, OpenAI API
-+ [GitHub Link] (https://github.com/gavinpryor/nba-rulebook-ai-agent)
++ [GitHub Link](https://github.com/gavinpryor/nba-rulebook-ai-agent)
   
 
 
