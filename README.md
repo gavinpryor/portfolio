@@ -13,9 +13,10 @@ GPA: 3.96 || Expected Graduation: Spring 2026
 
 ## Work Experience
 **AI Product Engineer Intern at Keboola** (June 2024 - Present)
-+ Supporting the research and development of new AI features for Keboola platform, including pipeline data lineage and text-to-SQL capabilities
-+ Building a demo for the new data pipeline lineage feature to present to high-profile enterprise clients, showcasing its benefits for improving data traceability and impact analysis
-+ Created detailed documentation and reports to track the progress and achievements of Keboola AI initiatives
++ Implementing tool to tag Keboola projects with possible use cases using project metadata, leveraging Snowflake SQL and GPT-4, enhancing company’s analytical capabilities and forming baseline for automatic pipeline generation tool
++ Developing Pinecone vector database writer component to be used in data pipelines by Keboola enterprise customers in large-scale AI projects
++ Contributing to research and development of Text-to-SQL bot for the platform through improving RAG capabilities and creating a robust training dataset
+
 
 **Product Intern at 1486 Labs** (January 2024 - Present)
 + Helping to plan and manage end-to-end design, development, and deployment of new flagship product to assist data professionals with sourcing external data
@@ -46,11 +47,10 @@ GPA: 3.96 || Expected Graduation: Spring 2026
 
 
 ## Extracirricular Involvement
-**Phi Beta Lambda Professional Business Organization** (September 2022 - Present)
-+ Attend service, networking, DE&I, and professional development events to further my business knowledge and expand my professional network
++ **Phi Beta Lambda – Professional Business Organization:** Attend service, networking, DE&I, and professional development events to further my business knowledge and expand my professional network				        
++ **Incline Consulting for Nonprofits:** Offer analytics, strategy, and marketing consulting to nonprofit organizations in the Pittsburgh area to extend outreach and improve operational efficiency
+•	**Volunteering:** Worked 150+ hours with organizations such as March of Dimes, St. Vincent de Paul, and local homeless shelters
 
-**Nonprofit Consultant at Incline Consulting Group** (January 2024 - Present)
-+ Offer analytics, strategy, and marketing consulting to nonprofit organizations in the Pittsburgh area to extend outreach and improve operational efficiency
 
 
 
