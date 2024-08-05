@@ -5,9 +5,9 @@
 ## Education
 University of Pittsburgh, Bachelor of Science in Business Administration
 
-Major: Data Analytics || Minors: Computer Science, Statistics
+Major: Data Analytics      ||      Minors: Computer Science, Statistics
 
-GPA: 3.96 || Expected Graduation: Spring 2026
+GPA: 3.96                  ||      Expected Graduation: Spring 2026
 
 
 
@@ -47,9 +47,11 @@ GPA: 3.96 || Expected Graduation: Spring 2026
 
 
 ## Extracirricular Involvement
-+ **Phi Beta Lambda – Professional Business Organization:** Attend service, networking, DE&I, and professional development events to further my business knowledge and expand my professional network				        
++ **Phi Beta Lambda – Professional Business Organization:** Attend service, networking, DE&I, and professional development events to further my business knowledge and expand my professional network
+            
 + **Incline Consulting for Nonprofits:** Offer analytics, strategy, and marketing consulting to nonprofit organizations in the Pittsburgh area to extend outreach and improve operational efficiency
-•	**Volunteering:** Worked 150+ hours with organizations such as March of Dimes, St. Vincent de Paul, and local homeless shelters
+
++ **Volunteering:** Worked 150+ hours with organizations such as March of Dimes, St. Vincent de Paul, and local homeless shelters
 
 
 
