@@ -1,14 +1,14 @@
 # Data Science and AI | Third Year University Student
 
-#### Contact Info
 **Phone:** (937) 608-3565
 
 **Email:** gavin.anaiah@gmail.com
 
-#### Socials
-[LinkedIn](https://www.linkedin.com/in/gavinpryor/)
-[GitHub](https://github.com/gavinpryor)
-[Twitter](https://twitter.com/gavinapryor)
+[**LinkedIn**](https://www.linkedin.com/in/gavinpryor/)
+
+[**GitHub**](https://github.com/gavinpryor)
+
+[**Twitter**](https://twitter.com/gavinapryor)
 
 #### Technical Skills: Python, SQL (MySQL, Snowflake), Java, R, Docker, Spark, Excel, Tableau
 
