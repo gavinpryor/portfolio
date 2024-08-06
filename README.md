@@ -1,5 +1,14 @@
 # Data Science and AI | Third Year University Student
 
+#### Contact Info
+Phone: (937) 608-3565
+Email: gavin.anaiah@gmail.com
+
+#### Socials
+[LinkedIn](https://www.linkedin.com/in/gavinpryor/)
+[GitHub](https://github.com/gavinpryor)
+[Twitter](https://twitter.com/gavinapryor)
+
 #### Technical Skills: Python, Java, R, MySQL, Excel, Tableau
 
 ## Education
@@ -38,11 +47,19 @@ GPA: 3.96                  ||      Expected Graduation: Spring 2026
 
 
 
-## Projects
+## Major Projects (In Progress)
+
+
+## Other Projects - [GitHub](https://github.com/gavinpryor)
+
 **NBA Rulebook AI agent using RAG**
-+ AI agent that allows the user to ask questions about NBA rules
 + Skills - RAG, LangChain, OpenAI API
 + [GitHub Link](https://github.com/gavinpryor/nba-rulebook-ai-agent)
+
+**Bank Fraud Classification using tree-based models**
++ [GitHub Link]()
+
+
   
 
 
