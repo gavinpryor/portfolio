@@ -1,22 +1,23 @@
 # Data Science and AI | Third Year University Student
 
 #### Contact Info
-Phone: (937) 608-3565
-Email: gavin.anaiah@gmail.com
+**Phone:** (937) 608-3565
+
+**Email:** gavin.anaiah@gmail.com
 
 #### Socials
 [LinkedIn](https://www.linkedin.com/in/gavinpryor/)
 [GitHub](https://github.com/gavinpryor)
 [Twitter](https://twitter.com/gavinapryor)
 
-#### Technical Skills: Python, Java, R, MySQL, Excel, Tableau
+#### Technical Skills: Python, SQL (MySQL, Snowflake), Java, R, Docker, Spark, Excel, Tableau
 
 ## Education
-University of Pittsburgh, Bachelor of Science in Business Administration
+**University of Pittsburgh, Bachelor of Science in Business Administration**
 
-Major: Data Analytics      ||      Minors: Computer Science, Statistics
+**Major:** Data Analytics      ||      **Minors:** Computer Science, Statistics
 
-GPA: 3.96                  ||      Expected Graduation: Spring 2026
+**GPA:** 3.96                  ||      **Expected Graduation:** Spring 2026
 
 
 
