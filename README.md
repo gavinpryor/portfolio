@@ -5,9 +5,7 @@
 **Email:** gavin.anaiah@gmail.com
 
 [**LinkedIn**](https://www.linkedin.com/in/gavinpryor/)
-
 [**GitHub**](https://github.com/gavinpryor)
-
 [**Twitter**](https://twitter.com/gavinapryor)
 
 #### Technical Skills: Python, SQL (MySQL, Snowflake), Java, R, Docker, Spark, Excel, Tableau
@@ -51,17 +49,12 @@
 ## Major Projects (In Progress)
 
 
+
 ## Other Projects - [GitHub](https://github.com/gavinpryor)
 
-**NBA Rulebook AI agent using RAG**
-+ Skills - RAG, LangChain, OpenAI API
-+ [GitHub Link](https://github.com/gavinpryor/nba-rulebook-ai-agent)
++ [**NBA Rulebook AI agent using RAG**](https://github.com/gavinpryor/nba-rulebook-ai-agent)
++ [**Bank Fraud Classification using tree-based models**](https://github.com/gavinpryor/bank_fraud_prediction)
 
-**Bank Fraud Classification using tree-based models**
-+ [GitHub Link]()
-
-
-  
 
 
 ## Extracirricular Involvement
